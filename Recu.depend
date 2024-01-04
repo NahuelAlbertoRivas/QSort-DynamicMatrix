@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1700682304 source:c:\users\54113\[nahue] cursos\unlam\topicos de programacion\recuperatorio2c-soligo\44364975_rivas_nahuel_alberto_2\recuentregable\fnscomplemento.c
+	"FnsComplemento.h"
+
+1700681858 c:\users\54113\[nahue] cursos\unlam\topicos de programacion\recuperatorio2c-soligo\44364975_rivas_nahuel_alberto_2\recuentregable\fnscomplemento.h
+	<stdlib.h>
+	<stdio.h>
+
+1704393658 source:c:\users\54113\[nahue] cursos\unlam\topicos de programacion\recuperatorio2c-soligo\44364975_rivas_nahuel_alberto_2\recuentregable\main.c
+	"FnsComplemento.h"
+
